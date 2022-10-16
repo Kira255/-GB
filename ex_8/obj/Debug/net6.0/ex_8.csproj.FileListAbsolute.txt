@@ -1,0 +1,15 @@
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\bin\Debug\net6.0\ex_8.exe
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\bin\Debug\net6.0\ex_8.deps.json
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\bin\Debug\net6.0\ex_8.runtimeconfig.json
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\bin\Debug\net6.0\ex_8.dll
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\bin\Debug\net6.0\ex_8.pdb
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\obj\Debug\net6.0\ex_8.csproj.AssemblyReference.cache
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\obj\Debug\net6.0\ex_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\obj\Debug\net6.0\ex_8.AssemblyInfoInputs.cache
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\obj\Debug\net6.0\ex_8.AssemblyInfo.cs
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\obj\Debug\net6.0\ex_8.csproj.CoreCompileInputs.cache
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\obj\Debug\net6.0\ex_8.dll
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\obj\Debug\net6.0\refint\ex_8.dll
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\obj\Debug\net6.0\ex_8.pdb
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\obj\Debug\net6.0\ex_8.genruntimeconfig.cache
+C:\Users\kirak\OneDrive\Рабочий стол\GeekBrains\dz\ex_8\obj\Debug\net6.0\ref\ex_8.dll
