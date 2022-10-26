@@ -13,5 +13,6 @@ string Check(int x)
 }
 
 Console.Clear();
+Console.Write("Введите число: ");
 int X = int.Parse(Console.ReadLine()!);
 Console.WriteLine($"{Check(X)}");
