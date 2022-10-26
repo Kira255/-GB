@@ -13,6 +13,6 @@ string Check(int x)
 }
 
 Console.Clear();
-Console.Write("Введите число: ");
+Console.Write("Введите пятизначное число: ");
 int X = int.Parse(Console.ReadLine()!);
 Console.WriteLine($"{Check(X)}");
